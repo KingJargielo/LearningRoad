@@ -1,6 +1,6 @@
 class Basic2 {
         int i;
-        private int j;
+        /*private*/ int j;
 
         void setij(int x, int y) {
             i = x;

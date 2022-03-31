@@ -4,4 +4,8 @@ public interface MyIF {
     default String getString() {
         return "Łańcuch domyślny";
     }
+
+    static int getDefaultNumber() {
+        return 0;
+    }
 }

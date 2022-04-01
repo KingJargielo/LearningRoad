@@ -14,3 +14,5 @@ public class MultipleCatches {
         System.out.println("After try and catch blocks");
     }
 }
+//UWAGA W OPCJACH USTAWIONO PARAMETR BY DRUGI CATCH ZADZIAŁAŁ. BEZ NIEGO
+//ZADZIAŁA TYLKO PIERWSZY CATCH, BO DO KODU Z TABLICAMI PROGRAM NIE DOJDZIE

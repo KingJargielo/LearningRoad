@@ -12,7 +12,7 @@ public class HandleError {
                 a = 12345 / (b / c);
             } catch (ArithmeticException e) {
                 System.out.println("Exception: " + e);
-                System.out.println("Dividing by zero");
+                System.out.println("Dividing by zero!");
                 a = 0;
             }
             System.out.println("a: " + a);

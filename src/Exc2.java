@@ -7,7 +7,7 @@ public class Exc2 {
             a = 42 / d;
             System.out.println("This will not be displayed");
         } catch (ArithmeticException e) {
-            System.out.println("Dividing by zero");
+            System.out.println("Dividing by zero!");
         }
         System.out.println("After catch instruction");
     }

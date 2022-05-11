@@ -1,4 +1,4 @@
-public class ĆwiczeniaZTablic {
+public class CwiczeniaZTablic {
     public static void main(String[] args) {
         int[] example = new int[10];
         int[] sample;
